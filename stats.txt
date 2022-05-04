@@ -1,0 +1,28 @@
+multiword:792
+allcaps:1372
+nocaps:240
+firstcap:2388
+firstuncap:92
+multiword types:{'allcaps': 29, 'nocaps': 22, 'firstcap': 730, 'firstuncap': 11}
+-:239
+(:82
+):70
+/:21
+.:23
+®:2
+™:1
+,:4
+*:7
+©:1
+!:1
+_:8
++:4
+[:5
+::2
+]:1
+@:1
+':10
+":2
+´:1
+Total names: 4092 
+Total names with non alphanumeric character: 378

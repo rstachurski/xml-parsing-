@@ -1,0 +1,153 @@
+<teiCorpus>
+    <TEI subtype="pmc" type="article">
+        <teiHeader>
+            <fileDesc xml:id="ddcd1e963e">
+                <titleStmt>
+                <title>Resolving the &lt;I&gt;Diaporthe&lt;/I&gt; species occurring on soybean in Croatia</title>
+                </titleStmt>
+                <sourceDesc>
+                <bibl>
+                    <idno type="DOI">10.3767/003158511x603719</idno>
+                    <idno type="PMC">PMC3251324</idno>
+                    <idno type="PMID">22403474</idno>
+                    <idno type="origin">PMC3251324</idno>
+                </bibl>
+                </sourceDesc>
+            </fileDesc>
+            <encodingDesc/>
+            <profileDesc>
+                <textClass>
+                <catRef target="#with_reconciliation_and_scripts"/>
+                <catRef target="#unique_annotator"/>
+                </textClass>
+            </profileDesc>
+        </teiHeader>
+        <text xml:lang="en">
+            <body>
+                <p>Amplicon purification and sequencing, sequence editing and dataset assembling followed the protocols of <ref type="bibr">Santos et al. (2010)</ref>. Phylogenetic trees were inferred in <rs cert="1.0" resp="#annotator5" type="software" xml:id="ddcd1e963e-software-1">MrBayes</rs> v. <rs corresp="#ddcd1e963e-software-1" resp="#annotator5" type="version">3.0b4</rs> <ref type="bibr">(Ronquist &amp; Huelsenbeck 2003)</ref> by Bayesian analysis and in <rs resp="#curator" type="software" xml:id="ddcd1e963e-software-2">PAUP (Phylogenetic Analysis Using Parsimony)</rs>  v. <rs corresp="#ddcd1e963e-software-2" resp="#annotator5" type="version">4.0b10</rs> <ref type="bibr">(Swofford 2002)</ref> by <rs corresp="#ddcd1e963e-software-2" resp="#curator" type="publisher">Maximum Parsimony (MP)</rs> using the heuristic search option with random addition of sequences (1 000 replications), tree bisection-reconnection (TBR) and MULTREES options ON. Bayesian analysis was performed as described in <ref type="bibr">Phillips et al. (2007)</ref>, setting burn-in at 2 000 generations. Bootstrap support values with 1 000 replications <ref type="bibr">(Felsenstein 1985)</ref> were calculated for branches in the MP trees using MULTREES option OFF and 10 random sequence additions in each of 1 000 pseudoreplicates. Sequences obtained from GenBank are listed by their taxon names followed by accession numbers in the trees <ref type="figure">(Fig. 1, 2)</ref>, while newly generated sequences are listed by their isolate number. Newly generated sequences have been deposited in GenBank <ref type="table">(Table 1)</ref></p>
+            </body>
+        </text>
+    </TEI>
+       <TEI subtype="pmc" type="article">
+      <teiHeader>
+         <fileDesc xml:id="a7f72b2925">
+            <titleStmt>
+               <title>A comparative study of collimation in bedside chest radiography for preterm infants in two teaching hospitals</title>
+            </titleStmt>
+            <sourceDesc>
+               <bibl>
+                  <idno type="DOI">10.1016/j.ejro.2015.07.002</idno>
+                  <idno type="PMC">PMC4750616</idno>
+                  <idno type="PMID">26937444</idno>
+                  <idno type="origin">PMC4750616</idno>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc/>
+         <profileDesc>
+            <textClass>
+               <catRef target="#with_reconciliation_and_scripts"/>
+               <catRef target="#unique_annotator"/>
+            </textClass>
+         </profileDesc>
+      </teiHeader>
+      <text xml:lang="en">
+         <body>
+            <p>Two experienced radiologists (JCS and IK-S) evaluated the image quality, based on the exposure of non-thoracic structures. They determined the most superior and inferior parts of the body, as well as the lateral structures, which had been included within the boundaries of collimation on each chest X-ray. The readers performed their evaluations according to the European Guidelines on Quality Criteria for Diagnostic Radiographic Images in Paediatrics <ref type="bibr">[12]</ref>. A grading system was used to measure image quality in terms of correct collimation. Inappropriate exposure of abdominal viscera was assumed when the caudal imaging field extended below the level of L1/2 (1 point). Exposure of the cranial structures was considered inappropriate when the collimated field included more than the tip of the mandible (1 point). Inappropriate exposure of the arms was assumed when more than the diametaphyseal junction of the proximal humerus came within the field of view: part of the diaphyseal humerus (1 point); entire humerus (2 points); part of the forearm (1 point); entire forearm (2 points); hand (1 point). The maximum score was 12 points. The image quality in terms of correct collimation was graded arbitrarily as follows: 0 points = optimal image quality; 1-2 points = slightly reduced; 3-4 = moderately reduced; 5-6 = markedly reduced; and &gt;7 points = severely reduced <ref type="figure">Fig. 1</ref>). Rotation and tilting were also recorded. Radiographic errors were recorded on individual tick sheets and the information was captured in an <rs cert="1.0" resp="#annotator0" type="software" xml:id="a7f72b2925-software-0">Excel</rs> spreadsheet (<rs corresp="#a7f72b2925-software-0" resp="#curator" type="publisher">Microsoft</rs>, Redmond, WA). The readers resolved any differences by consensus.</p>
+            <p>Optimal 0.32 * 0.39 * Sub-optimal 0.68 0.61 1-2 parts exposed Slightly reduced 0.48 0.49 3-4 parts exposed Moderately reduced 0.17 0.08 5-6 parts exposed Markedly reduced 0.02 0.04 &gt;7 parts exposed Severely reduced 0.01 0.00 rected for continuity) was used to calculate differences between the hospitals, as well as between optimal and suboptimal images with respect to age, gestation, number of tubes and catheters, radiographer, and the number of years' experience. Student's t test was used to calculate differences between DAPs. The Spearman rank correlation coefficient was used to analyse the correlation between the radiographer's experience in performing X-rays and collimation quality. A level of p &lt; 0.05 was regarded as statistically significant. Analyses were performed using <rs cert="1.0" resp="#annotator0" type="software" xml:id="a7f72b2925-software-1">SAS</rs> statistical software (version <rs corresp="#a7f72b2925-software-1" resp="#annotator0" type="version">9.1</rs>; <rs corresp="#a7f72b2925-software-1" resp="#curator" type="publisher">SAS Institute</rs>, Cary, NC).</p>
+         </body>
+      </text>
+   </TEI>
+      <TEI subtype="pmc" type="article">
+      <teiHeader>
+         <fileDesc xml:id="ff662b3db5">
+            <titleStmt>
+               <title>Src kinases in chondrosarcoma chemoresistance and migration: dasatinib sensitises to doxorubicin in TP53 mutant cells</title>
+            </titleStmt>
+            <sourceDesc>
+               <bibl>
+                  <idno type="DOI">10.1038/bjc.2013.451</idno>
+                  <idno type="PMC">PMC3778302</idno>
+                  <idno type="PMID">23922104</idno>
+                  <idno type="origin">PMC3778302</idno>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc/>
+         <profileDesc>
+            <textClass>
+               <catRef target="#with_reconciliation_and_scripts"/>
+               <catRef target="#unique_annotator"/>
+            </textClass>
+         </profileDesc>
+      </teiHeader>
+      <text xml:lang="en">
+         <body>
+            <p>Mutation analysis. To identify mutations in AKT1, direct sequencing was performed as described <ref type="bibr">(Pansuriya et al, 2011)</ref>, using DNA derived from 57 tumours, 8 cell lines and 1 primary culture (L3310) using forward <rs cert="0.9" resp="#annotator10" type="software" xml:id="ff662b3db5-software-0">primer</rs> <rs corresp="#ff662b3db5-software-0" resp="#curator" type="version">3</rs> 0 -TAGAGTGTGCGTGGC CTCTCA-5 0 and reverse primer 3 0 -CTGAATCCCGAGAGGCC AA-5 0 to screen for hotspot mutations in the AKT1-E17K pleckstrin homology domain.</p>
+            <p>Statistical analysis. Survival was evaluated by Kaplan-Meier analysis and the log-rank test. Values of Pp0.05 were considered statistically significant. Variables that achieved significance (Pp0.05) were entered subsequently into a multivariate analysis using the Cox regression model. Cox regression analysis was carried out with clinical outcome (overall survival) as the independent variable. Correlation between expression and grade and individual stainings were evaluated using Pearson chi-squared test for independent variables. Values of Pp0.05 for asymptomatic two-sided testing were considered significant. The data were analysed using <rs cert="1.0" resp="#annotator10" type="software" xml:id="ff662b3db5-software-2">SPSS</rs> version <rs corresp="#ff662b3db5-software-2" resp="#annotator10" type="version">17.0</rs> software (Chicago, IL, USA). For combination assays, the combination index according to the method of <ref type="bibr">Chou and Talalay (1984)</ref> was calculated. A combination index (CI) of below 1 indicates synergy, and CI of above 1 indicates additive effect. Correlation between combination indices was evaluated using independent two-sided t-test using <rs resp="#curator" type="software" xml:id="ff662b3db5-software-3">GraphPad Prism</rs> <rs corresp="#ff662b3db5-software-3" resp="#annotator10" type="version">5</rs> software (La Jolla, CA, USA). Values of Pp0.05 were considered significant.</p>
+         </body>
+      </text>
+   </TEI>
+    <TEI subtype="pmc" type="article">
+      <teiHeader>
+         <fileDesc xml:id="f6dfe14166">
+            <titleStmt>
+               <title>Antiviral effect of dietary germanium biotite supplementation in pigs experimentally infected with porcine reproductive and respiratory syndrome virus</title>
+            </titleStmt>
+            <sourceDesc>
+               <bibl>
+                  <idno type="DOI">10.4142/jvs.2013.14.2.135</idno>
+                  <idno type="PMC">PMC3694184</idno>
+                  <idno type="PMID">23814470</idno>
+                  <idno type="origin">PMC3694184</idno>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc/>
+         <profileDesc>
+            <textClass>
+               <catRef target="#with_reconciliation_and_scripts"/>
+               <catRef target="#unique_annotator"/>
+            </textClass>
+         </profileDesc>
+      </teiHeader>
+      <text xml:lang="en">
+         <body>
+            <p>All data are expressed as the mean ± standard deviation (SD). A one-way analysis of variance (ANOVA) followed by Tukey's multiple comparison tests was used to analyze results from the mouse model. Student's t-test was performed to analyze data from the swine experiments. A Mann-Whitney U test (nonparametric test) was also used to compare microscopic lesion scores (ordinal data) for tissues from the experimentally PRRSV-infected pigs. All statistical analyses were performed using <rs cert="1.0" resp="#annotator0" type="software" xml:id="f6dfe14166-software-0">SPSS</rs> version<rs corresp="#f6dfe14166-software-0" resp="#annotator0" type="version">asdasd</rs> software (<rs corresp="#f6dfe14166-software-0" resp="#curator" type="publisher">SPSS</rs>, USA). P-values ＜ 0.05 were considered statistically significant.</p>
+         </body>
+      </text>
+   </TEI>
+      <TEI subtype="pmc" type="article">
+      <teiHeader>
+         <fileDesc xml:id="dc8cfc2684">
+            <titleStmt>
+               <title>Normalization Using Weighted Negative Second Order Exponential Error Functions (NeONORM) Provides Robustness Against Asymmetries in Comparative Transcriptome Profiles and Avoids False Calls</title>
+            </titleStmt>
+            <sourceDesc>
+               <bibl>
+                  <idno type="DOI">10.1016/s1672-0229(06)60021-1</idno>
+                  <idno type="PMC">PMC5054038</idno>
+                  <idno type="PMID">16970549</idno>
+                  <idno type="origin">PMC5054038</idno>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <encodingDesc/>
+         <profileDesc>
+            <textClass>
+               <catRef target="#with_reconciliation_and_scripts"/>
+               <catRef target="#unique_annotator"/>
+            </textClass>
+         </profileDesc>
+      </teiHeader>
+      <text xml:lang="en">
+         <body>
+            <p>(1) Finding intervals I1 . . . I, that each contains a minimum; (2) Iteratively approaching for each j = 1 . . . n the minimum contained in the interval Ij until a defined precision is reached, yielding a candidate value aj for the minimum in Ij; (3) Calculating the error values errj = errneo(aj) for each candidate and selecting aj that corresponds to the minimal error amongst err1 . . . errn. The algorithm is implemented in Java in the framework of the <rs cert="0.7" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-simple-0">ace.map</rs> suite for microarray statistical data analysis, which will be described in detail elsewhere.</p>
+            <p><rs cert="1.0" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-2">Applied Biosystems Expression Array System Soft- ware</rs> (V<rs corresp="#dc8cfc2684-software-2" resp="#annotator1" type="version">1.l.l</rs>, ProdNo: 4364137) has been used to acquire the CL and fluorescence (FL) images and primary data analysis. Briefly, the primary analysis consists of the following individual operations: (1) Image correction; (2) Global and local background correctton; (3) Feature normalization; (4) Spatial normalization; (5) Global normalization. Note that we renormalize the resulting data according to the median once more after having removed probes for which the <rs cert="1.0" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-1">Applied Biosystems Software</rs> has set flags greater than 212, indicating compromised or failed measurements (as recommended by <rs corresp="#dc8cfc2684-software-1" resp="#curator" type="publisher">Applied Biosystems</rs>). This secondary normalization is implemented in the <rs cert="0.7" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-simple-5">ace.map</rs> suite.</p>
+            <p>The routine is implemented in Java using the supplied pseudo random number generator and the transformation function Ijava.util.Random.next The two generated artificial datasets differ by the ratio f, the mean p, and the variance B . The first dataset shown in <ref type="figure">Figure 5</ref>B was generated at constant a=O.l*p for all combinations of f=l/16, l/s, 114 and p=0.5, 1.0, 1.5. The second dataset discussed in Tables 1 and 2 was generated with constant constant B = p, and varying f=l/256 to 1/4. Simply, the first dataset creates ever larger perturbations (with increasing f ) at ever larger distance to a=O (with increasing p ) with a constant and small variance of the perturbation. The second dataset creates exponentially increasing perturbations (with increasing f ) at a constant distance to a=O with a constant and large variance.</p>
+            <p>(1) Median normalization, linear. Assuming symmetry in the fold change; after calculating the fold changes, the median is subtracted from the log2-transformed signal quotients. (2) <rs resp="#curator" type="software" xml:id="dc8cfc2684-software-simple-6">LOWESS</rs> normalization, non-linear. <rs resp="#curator" type="software" xml:id="dc8cfc2684-software-simple-7">LOWESS</rs> is a method developed by Cleveland (33) in 1979 and since then has been frequently improved and modified. It was a p plied to microarray data analysis for the first time by <ref type="bibr">Yang et</ref> <ref type="figure">al ( 1 1 )</ref> in 2001. For the original method, four parameters have to be specified (which normally happens more or less arbitrarily), and changes in each of them lead to different results. A suggestion for optimized parameter selection was published by Berger et a1 <ref type="bibr">( 1 2 )</ref> in 2004. <rs resp="#curator" type="software" xml:id="dc8cfc2684-software-simple-8">LOWESS</rs> performs very well for poorly preprocessed data. The <rs resp="#curator" type="software" xml:id="dc8cfc2684-software-simple-9">LOWESS</rs> implementation used to compare to <rs resp="#curator" type="software" xml:id="dc8cfc2684-software-simple-10">NeONORM</rs> is a Java port of Cleveland's original FORTRAN code from 1985 freely available (<rs corresp="#dc8cfc2684-software-11" resp="#curator" type="url">http://netlib.belllabs.com/netlib/go/lowess.f.gz</rs>), which was temporarily embedded in the <rs cert="0.7" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-simple-12">ace.map</rs> platform for direct comparative testing.</p>
+            <p>Histograms and frequency plots appearing in the figures were generated using <rs cert="0.7" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-simple-13">ace.map</rs>, however, are standard means of data representation. The 3Dsurface plots in <ref type="figure">Figure 4</ref> were rendered using <rs cert="1.0" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-11">gnupplot</rs> <rs corresp="#dc8cfc2684-software-11" resp="#annotator1" type="version">4.0</rs>. Sign plots (blue = negative, red = positive) were rendered by an <rs cert="0.7" resp="#annotator1" type="software" xml:id="dc8cfc2684-software-simple-16">ace.map</rs> plug-in. Subtraction profiles consist of logs-transformed quotients (logQ) of signal intensities for the intersection set of the probe IDS, which were contained in the two input sample files used for the subtraction.</p>
+         </body>
+      </text>
+   </TEI>
+   </teiCorpus>

@@ -25,16 +25,16 @@ for type in root.findall('TEI/text/body/p/rs'):
         notgrouped = 1
         software[type.text] =  software.get(type.text, 0) + 1
         total += 1
-        for name in groups:
-            if enchant.utils.levenshtein(type.text, name) < 3:
-                notgrouped = 0
-                if len(groups) != 0 and len(groups[name])!= 0:
-                    groups[name][0] = int(groups[name][0]) + 1
-                if not type.text in groups[name]:
-                    groups[name].append(type.text)
-                break
-        if notgrouped == 1:
-            groups[type.text] = [1,type.text]
+        # for name in groups:
+        #     if enchant.utils.levenshtein(type.text, name) < 3:
+        #         notgrouped = 0
+        #         if len(groups) != 0 and len(groups[name])!= 0:
+        #             groups[name][0] = int(groups[name][0]) + 1
+        #         if not type.text in groups[name]:
+        #             groups[name].append(type.text)
+        #         break
+        # if notgrouped == 1:
+        #     groups[type.text] = [1,type.text]
             # groups[type.text] = [type.text]
         if not remove(type.text).isalnum():
             has_nonalpha += 1
@@ -79,11 +79,22 @@ file.close()
 with open("softwarenamegroups.txt", 'w', encoding="utf-8") as f: 
     for key, value in groups.items(): 
         f.write('%s:%s\n' % (key, value))
+f.close()
+with open("stats.txt", 'w', encoding="utf-8") as f:
     for key, value in count.items(): 
         f.write('%s:%s\n' % (key, value))
     for key, value in multi_count.items(): 
         f.write('%s:%s\n' % (key, value))
     for key, value in nonalpha.items(): 
         f.write('%s:%s\n' % (key, value))
-    f.write("Total names%i:" % total)
+    f.write("Total names: %i \n" % total)
     f.write("Total names with non alphanumeric character: %i" % has_nonalpha)
+f.close()
+character = []
+count = []
+for i in nonalpha:
+    character.append(i)
+    count.append(nonalpha.get(i,0))
+
+print(character)
+print(count)
